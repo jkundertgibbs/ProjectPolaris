@@ -118,3 +118,25 @@ Scaffold containers for future implementation.
 
 `open-questions/`
 Explicit unresolved architectural decisions.
+
+---
+
+## Sample Images
+
+Draft concept visuals are collected in [`design/sample-design-images/`](design/sample-design-images/README.md).
+
+### The Board (Complex)
+
+![The Board Complex](design/sample-design-images/the-board-complex.png)
+
+### Org Structure
+
+![Org Structure](design/sample-design-images/org-structure.png)
+
+### Manager-Inferred Attention Intensity
+
+![Manager Inferred Attention Intensity](design/sample-design-images/manager-inferred-attention-intensity.png)
+
+### Whiteboard 1
+
+![Whiteboard 1](design/sample-design-images/whiteboard-1.png)
