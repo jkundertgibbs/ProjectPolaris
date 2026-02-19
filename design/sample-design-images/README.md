@@ -3,6 +3,7 @@
 ## Purpose
 
 This directory contains sample, draft images illustrating concepts discussed in Project Polaris.
+This is a living document repository and new images can appear at any time. 
 
 ## Key Concepts
 
